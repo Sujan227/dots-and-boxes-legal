@@ -1,0 +1,38 @@
+# Dots & Boxes: Brain Duel
+
+> A free Android version of the classic dots and boxes pen-and-paper game, by Sujan Shrestha (Kathmandu, Nepal). No ads, no in-app purchases, no tracking. Play against five computer levels, solve a daily puzzle, pass the phone around with 2 to 6 players, or play online in private, public and ranked rooms.
+
+- Get it on Google Play: https://play.google.com/store/apps/details?id=com.sujanshrestha.dotsandboxes
+- Platform: Android only (no iPhone version yet)
+- Price: free; no ads; no in-app purchases
+- Players: 1 to 6
+- Offline: games against the computer, the daily puzzle, Chain School and Pass & Play work without internet
+- Online: random opponents, private rooms with a 6-letter code, public rooms, friends and invites, ranked ratings and a leaderboard; the server checks every move
+- Computer levels: Beginner, Casual, Skilled, Expert, Master (Master calculates the endgame exactly), plus endless levels with obstacles, walls, gem and bomb boxes, locked lines and shaped boards
+- Daily puzzle: a new endgame each day, the same for everyone, worth up to 3 stars
+- Chain School: twelve puzzles that teach chains, sacrifices and the double-cross
+- Board styles: Paper, Chalkboard and Neon, unlocked with trophies; light and dark themes
+- Privacy: no email, phone number or location needed; online play uses an anonymous account that can be deleted from Settings
+
+## Pages
+
+- [Home](https://sujan227.github.io/dots-and-boxes-legal/): what the game is, rules, strategy, features and questions
+- [Privacy policy](https://sujan227.github.io/dots-and-boxes-legal/privacy-policy.html): what the app collects and why
+- [Delete your account](https://sujan227.github.io/dots-and-boxes-legal/delete-account.html): how to delete online data
+
+## How to play dots and boxes
+
+1. Start with a grid of dots. Players take turns drawing one line between two neighbouring dots.
+2. Closing the fourth side of a box claims it, and that player draws another line.
+3. When every line is drawn, the player with the most boxes wins.
+
+## How to win
+
+- Avoid drawing the third side of a box early on: the opponent takes it and moves again.
+- When the safe moves run out, the board splits into chains of boxes; whoever must open the first long chain usually loses.
+- Double-cross: when taking a long chain, leave the last two boxes; the opponent takes them and must open the next chain.
+- Sacrificing a short chain can force the opponent to open the long ones.
+
+## Contact
+
+shresthasujan227@gmail.com
