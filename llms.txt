@@ -1,6 +1,6 @@
 # Dots & Boxes: Brain Duel
 
-> A free Android version of the classic dots and boxes pen-and-paper game, by Sujan Shrestha (Kathmandu, Nepal). No ads, no in-app purchases, no tracking. Play against five computer levels, solve a daily puzzle, pass the phone around with 2 to 6 players, or play online in private, public and ranked rooms.
+> A free Android version of the classic dots and boxes pen-and-paper game, by Sujan Shrestha (Kathmandu, Nepal). No ads, no in-app purchases, no tracking. Play the computer through eight worlds with their own twists and bosses, solve a daily puzzle, pass the phone around with 2 to 6 players, or play online in private, public and ranked rooms.
 
 - Get it on Google Play: https://play.google.com/store/apps/details?id=com.sujanshrestha.dotsandboxes
 - Platform: Android only (no iPhone version yet)
@@ -8,7 +8,8 @@
 - Players: 1 to 6
 - Offline: games against the computer, the daily puzzle, Chain School and Pass & Play work without internet
 - Online: random opponents, private rooms with a 6-letter code, public rooms, friends and invites, ranked ratings and a leaderboard; the server checks every move
-- Computer levels: Beginner, Casual, Skilled, Expert, Master (Master calculates the endgame exactly), plus endless levels with obstacles, walls, gem and bomb boxes, locked lines and shaped boards
+- Computer levels: Beginner, Casual, Skilled, Expert, Master (Master calculates the endgame exactly)
+- Worlds: after 8 training levels come eight worlds of 8 levels each (Clover Meadow, Frostpeak Pass, Sunscorch Dunes, Coral Deep, Ember Peaks, Cloud Isles, Lantern City, Starfall Orbit), each with its own twist (such as hedge mazes, frozen lines or gold boxes worth 2), new board shapes and a boss; then the worlds return as harder laps, so levels never run out
 - Daily puzzle: a new endgame each day, the same for everyone, worth up to 3 stars
 - Chain School: twelve puzzles that teach chains, sacrifices and the double-cross
 - Board styles: Paper, Chalkboard and Neon, unlocked with trophies; light and dark themes
