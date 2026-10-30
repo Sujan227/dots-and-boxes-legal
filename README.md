@@ -8,6 +8,7 @@ Pages at https://sujan227.github.io/dots-and-boxes-legal/
 - `llms.txt`: a plain-text summary of the app and its pages for AI tools.
 - `sitemap.xml`: submit it in Google Search Console and Bing Webmaster Tools.
 - `img/`: web copies of the store icon, feature graphic and screenshots.
+- `googleb0fcf61fb5f5589f.html`: Google Search Console's ownership check. Keep it, unchanged, or the site loses its verified status.
 - `privacy-policy.html` and `delete-account.html`: linked from Google Play.
 
 The home page, `llms.txt`, `sitemap.xml` and `img/` are edited here. Keep their
