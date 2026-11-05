@@ -13,7 +13,10 @@
 - Daily puzzle: a new endgame each day, the same for everyone, worth up to 3 stars
 - Chain School: twelve puzzles that teach chains, sacrifices and the double-cross
 - Board styles: Paper, Chalkboard and Neon, unlocked with trophies; light and dark themes
-- Privacy: no email, phone number or location needed; online play uses an anonymous account that can be deleted from Settings
+- Game modes: vs the computer (8 worlds with bosses), daily puzzle, Chain School lessons, Pass & Play (2 to 6 players, offline), online (random, private and public rooms, friends, ranked)
+- Board shapes: square, plus, ring, hourglass, heart, diamond, window, plus world shapes such as twin islands and a rocket
+- Board twists: gem boxes worth 2, bomb boxes that cost a point, walls, locked lines, frozen lines, holes
+- Privacy: no data shared with third parties; data encrypted in transit; no location, contacts or device IDs collected; no email or phone number needed; online play uses an anonymous account that can be deleted from Settings
 
 ## Pages
 
