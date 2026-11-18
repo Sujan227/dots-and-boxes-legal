@@ -1,6 +1,6 @@
 # Dots & Boxes — website and legal pages
 
-The public website for the Dots & Boxes: Multiplayer app, served with GitHub
+The public website for the Dots and Boxes: Multiplayer app, served with GitHub
 Pages at https://sujan227.github.io/dots-and-boxes-legal/
 
 - `index.html`: the home page (what the game is, rules, strategy, features,

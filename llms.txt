@@ -1,4 +1,4 @@
-# Dots & Boxes: Multiplayer
+# Dots and Boxes: Multiplayer
 
 > A free Android version of the classic dots and boxes pen-and-paper game, by Sujan Shrestha (Kathmandu, Nepal). No ads, no in-app purchases, no tracking. Play the computer through eight worlds with their own twists and bosses, solve a daily puzzle, pass the phone around with 2 to 6 players, or play online in private, public and ranked rooms.
 
